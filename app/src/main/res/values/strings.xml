@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">L02_session2</string>
+    <string name="text1">Name:</string>
+    <string name="text2">Password:</string>
+    <string name="button1">LOGIN</string>
+    <string name="button2">CANCEL</string>
+
+    <string name="title">Registration Form</string>
+    <string name="subtitle">Welcome to Adventure Learning Club!</string>
+    <string name="txt1">Full Name</string>
+    <string name="txt2">Gender</string>
+    <string name="m">Male</string>
+    <string name="f">Female</string>
+    <string name="txt3">Student ID</string>
+    <string name="txt4">School</string>
+    <string name="txt5">E-mail</string>
+    <string name="txt6">Phone</string>
+    <string name="button3">Register</string>
+</resources>
